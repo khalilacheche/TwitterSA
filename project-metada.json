@@ -1,0 +1,9 @@
+{
+      title: "ParaRL Parking",
+      img_path: "project-03.png",
+      description:
+        "Using Unity's ML Agents toolkit to create a car that parks",
+      tags: ["Game Dev","Machine Learning"],
+      langs: ["C#","Unity"]
+      link: "khalilacheche.github.io/ParaRLParkingDemo/"
+    }
