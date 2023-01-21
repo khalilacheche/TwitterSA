@@ -1,9 +1,9 @@
 {
-      title: "ParaRL Parking",
-      img_path: "project-03.png",
+      title: "Tweet Sentiment Analysis",
+      img_path: "https://raw.githubusercontent.com/khalilacheche/TwitterSA/project-metadata/tsa-demo.png",
       description:
-        "Using Unity's ML Agents toolkit to create a car that parks",
-      tags: ["Game Dev","Machine Learning"],
-      langs: ["C#","Unity"]
-      link: "khalilacheche.github.io/ParaRLParkingDemo/"
+        "A BERT based classifier for tweets",
+      tags: ["Machine Learning","NLP"],
+      langs: ["Python"]
+      link: "https://tweet-sa.streamlit.app/"
     }
