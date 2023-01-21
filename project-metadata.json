@@ -1,1 +1,1 @@
-{"title": "Tweet Sentiment Analysis","img_path": "https://raw.githubusercontent.com/khalilacheche/TwitterSA/project-metadata/tsa-demo.png","description":"A BERT based classifier for tweets","tags": ["Machine Learning","NLP"],"langs": ["Python"],"link": "https://tweet-sa.streamlit.app/"}
+{"title":"Tweet Sentiment Analysis","img_path":"https://raw.githubusercontent.com/khalilacheche/TwitterSA/project-metadata/tsa-demo.png","description":"A BERT based classifier for tweets","tags":["Machine Learning","NLP"],"langs":["Python"],"link":"https://tweet-sa.streamlit.app/"}
