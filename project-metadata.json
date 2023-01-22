@@ -9,5 +9,6 @@
   "langs": [
     "Python"
   ],
-  "link": "https://tweet-sa.streamlit.app/"
+  "link": "https://tweet-sa.streamlit.app/",
+  "frameworks":["streamlit","PyTorch"]
 }
