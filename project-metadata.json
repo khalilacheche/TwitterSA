@@ -10,5 +10,5 @@
     "Python"
   ],
   "link": "https://tweet-sa.streamlit.app/",
-  "frameworks":["streamlit","PyTorch"]
+  "frameworks":["Streamlit","PyTorch"]
 }
