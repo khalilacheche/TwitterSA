@@ -10,5 +10,9 @@
     "Python"
   ],
   "link": "https://tweet-sa.streamlit.app/",
-  "frameworks":["Streamlit","PyTorch"]
+  "frameworks": [
+    "Streamlit",
+    "PyTorch"
+  ],
+  "date": "2022-11"
 }
